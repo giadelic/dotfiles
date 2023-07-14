@@ -1,0 +1,17 @@
+* {
+  text-color:                  #FFF;
+
+  background:                  #000;
+  background-color:            #000;
+  foreground:                  #FFF;
+  border-color:                #F7C86A;
+  separatorcolor:              #F7C86A;
+  scrollbar-handle:            #000;
+
+  normal-background:           #000;
+  normal-foreground:           #FFF;
+  alternate-normal-background: #000;
+  selected-normal-background:  #F7C86A;
+  selected-normal-foreground:  #000;
+}
+
