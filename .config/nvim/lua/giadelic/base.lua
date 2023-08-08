@@ -10,7 +10,7 @@ vim.opt.backup = false
 vim.opt.swapfile = false
 vim.opt.wrap = false
 vim.opt_local.signcolumn = 'number'
-vim.opt.termguicolors = true
+vim.opt.termguicolors = false
 vim.opt.list = true
 vim.opt.listchars = { space = '•' }
 
@@ -27,5 +27,5 @@ end
 
 indent(2)
 
-vim.cmd("colorscheme fahrenheit")
--- vim.cmd("colorscheme firewatch") -- only without termguicolors
+-- vim.cmd("colorscheme fahrenheit")
+vim.cmd("colorscheme firewatch") -- only without termguicolors
