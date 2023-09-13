@@ -11,8 +11,6 @@ vim.opt.swapfile = false
 vim.opt.wrap = false
 vim.opt_local.signcolumn = 'number'
 vim.opt.termguicolors = false
-vim.opt.list = true
-vim.opt.listchars = { space = '•' }
 
 -- indents
 vim.opt.autoindent = true
