@@ -25,5 +25,5 @@ end
 
 indent(2)
 
--- vim.cmd("colorscheme fahrenheit")
-vim.cmd("colorscheme firewatch") -- only without termguicolors
+vim.cmd("colorscheme fahrenheit")
+-- vim.cmd("colorscheme firewatch") -- only without termguicolors
